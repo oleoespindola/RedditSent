@@ -1,2 +1,2 @@
-# TwitSent
-Desenvolvido para coletar dados do Twitter sobre assuntos específicos e classificar os comentários dos usuários como positivos, negativos ou neutr.
+# Reddit Sent
+Scrip para buscar assuntos variados no reddit e analisar os comentários dos usuários sobre o assunto, classificandoos como positivos, negativos e neutros usando ajuda da AI generativa da openAI.
